@@ -1,5 +1,11 @@
 ### Prazer, eu sou a Nathalia!!!! 🏋️‍♀️🏀🏝️🎮
 
+<div align="center">
+<img src="https://i.imgur.com/w4IMo6d.png">
+</div>
+
+
+
 <div>
 <a href="https://github.com/nathaliacrz">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathaliacrz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -15,10 +21,6 @@
   <img align="center" alt="nat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="nat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div><br>
- 
-Entre em contato comigo:
 
+![Snake animation](https://github.com/nathaliacrz/nathaliacrz/blob/output/github-contribution-grid-snake.svg)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaliacrz/)
-
- ![Snake animation](https://github.com/nathaliacrz/nathaliacrz/blob/output/github-contribution-grid-snake.svg)
-
