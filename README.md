@@ -1,11 +1,5 @@
 ### Prazer, eu sou a Nathalia!!!! 🏋️‍♀️🏀🏝️🎮
 
-<div align="center">
-<img src="https://i.imgur.com/w4IMo6d.png">
-</div>
-
-
-
 <div>
 <a href="https://github.com/nathaliacrz">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathaliacrz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
