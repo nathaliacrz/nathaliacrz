@@ -11,11 +11,11 @@ Tenho interesse na construção de APIs bem estruturadas, utilizando boas práti
 - Estudando Docker e Arquitetura Limpa
 
 ## 🖥️ Tecnologias:
-- Java    - Spring Boot
-- JUnit   - PostgreSQL
-- Docker  - Postman
-- Git     - Github
-- Maven   - Swagger
+- Java    /   Spring Boot
+- JUnit   /   PostgreSQL
+- Docker  /   Postman
+- Git     /   Github
+- Maven   /   Swagger
 
 ## Objetivo:
  🎯 Evoluir como desenvolvedora Back-End, aprofundando conhecimentos em arquitetura de software, microsserviços e computação em nuvem.
