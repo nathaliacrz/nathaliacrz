@@ -11,20 +11,19 @@ Tenho interesse na construção de APIs bem estruturadas, utilizando boas práti
 - Estudando Docker e Arquitetura Limpa
 
 ## 🖥️ Tecnologias:
-- Java
-- Spring Boot
-- JUnit
-- PostgreSQL
-- Docker
-- Postman
-- Git
-- Github
-- Maven
-- Swagger
+- Java    - Spring Boot
+- JUnit   - PostgreSQL
+- Docker  - Postman
+- Git     - Github
+- Maven   - Swagger
 
 ## Objetivo:
  🎯 Evoluir como desenvolvedora Back-End, aprofundando conhecimentos em arquitetura de software, microsserviços e computação em nuvem.
 
+## Contato:
+- 💼 LinkedIn: https://www.linkedin.com/in/nathaliacrz/
+- 📧 Email: nathalia.cruz068@gmail.com
+  
 ## Fun Facts:
 - ☕ Não gosto de café, muito menos de chá;
 - ☀️​ Já acordo ligada no 220v;
@@ -35,6 +34,3 @@ Tenho interesse na construção de APIs bem estruturadas, utilizando boas práti
 - 🎮​ Jogos (sempre competitivos, tenho que sair dessa vida e ir pro RPG);
 - 📚​ Leitura (sair um pouco do estresse que passo nos jogos faz bem);
 
-## Contato:
-- 💼 LinkedIn: https://www.linkedin.com/in/nathaliacrz/
-- 📧 Email: nathalia.cruz068@gmail.com
