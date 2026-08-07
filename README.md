@@ -1,21 +1,40 @@
-### Prazer, eu sou a Nathalia!!!! 🏋️‍♀️🏀🏝️🎮
+# Hey there! 👋
 
-<div>
-<a href="https://github.com/nathaliacrz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathaliacrz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliacrz&layout=compact&langs_count=7&theme=dracula"/>
+Me chamo **Nathalia Cruz**, desenvolvedora Back-End focada em construir APIs robustas e soluções escaláveis.
 
-<div align="center" style="display: inline_block"><br>
- <img align="center" alt="nat-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
- <img align="center" alt="nat-springboot" height="30" width="40"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="nat-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="nat-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="nat-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="nat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="nat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div><br>
- 
-Entre em contato comigo:
- 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaliacrz/)
+Desenvolvo aplicações para resolver problemas reais e transformar aprendizado em prática. 
+Tenho interesse na construção de APIs bem estruturadas, utilizando boas práticas e arquiteturas escaláveis.
+
+## 🔭 Atualmente:
+- Desenvolvedora Back-End Java
+- Construindo projetos com Spring Boot
+- Estudando Docker e Arquitetura Limpa
+
+## 🖥️ Tecnologias:
+- Java
+- Spring Boot
+- JUnit
+- PostgreSQL
+- Docker
+- Postman
+- Git
+- Github
+- Maven
+- Swagger 
+
+## Fun Facts:
+☕ não gosto de café, muito menos de chá;
+☀️​ já acordo ligada no 220v;
+🖥️ depois de tanto java, peguei a mania de colocar ponto e virgula no final de (quase) tudo que escrevo;
+
+## Hobbies: 
+🏋️‍♀️​ esportes (qualquer coisa que acelere meu coração);
+🎮​ jogos (sempre competitivos, tenho que sair dessa vida e ir pro RPG);
+📚​ leitura (sair um pouco do estresse que passo nos jogos faz bem);
+
+## Objetivo:
+ 🎯 evoluir como desenvolvedora Back-End, aprofundando conhecimentos em arquitetura de software, microsserviços e computação em nuvem.
+
+## Contato:
+💼 LinkedIn: https://www.linkedin.com/in/nathaliacrz/
+📧 Email: contatonathaliadev@gmail.com
