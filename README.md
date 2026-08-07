@@ -37,4 +37,4 @@ Tenho interesse na construção de APIs bem estruturadas, utilizando boas práti
 
 ## Contato:
 - 💼 LinkedIn: https://www.linkedin.com/in/nathaliacrz/
-- 📧 Email: contatonathaliadev@gmail.com
+- 📧 Email: nathalia.cruz068@gmail.com
